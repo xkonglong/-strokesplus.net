@@ -1,6 +1,6 @@
 # strokesplus.net
 
-WindowsStrokesPlus.net – 一款很厉害的鼠标手势软件，我一直跟踪汉化、还有不少用户持续更新脚本
+Windows 下的 StrokesPlus.net – 一款很厉害的鼠标手势软件，我一直跟踪汉化、还有不少用户持续更新脚本
 StrokesPlus.net 是一款被称作「属于一开始要折腾，但是之后会非常牛逼的类型」的鼠标手势软件，最重要的是，目前有大佬在持续更新脚本。@Appinn
 
 StrokesPlus 在 2016 停止更新，StrokesPlus.net 是 StrokesPlus 的继承者，Windows 下完全免费的鼠标手势识别实用程序，可让您创建功能强大的鼠标手势，从而节省时间。
