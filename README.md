@@ -6,11 +6,16 @@ StrokesPlus.net 是一款被称作「属于一开始要折腾，但是之后会�
 
 StrokesPlus 在 2016 停止更新，StrokesPlus.net 是 StrokesPlus 的继承者，Windows 下完全免费的鼠标手势识别实用程序，可让您创建功能强大的鼠标手势，从而节省时间。
 
-它支持插件, 支持.net脚本代码,功能强大, 而且多年坚持免费且持续更新.
+它支持插件, 支持[ClearScript]((https://github.com/Microsoft/ClearScript))脚本代码,功能强大, 而且多年坚持免费且持续更新.
+![1](img/1.png)
+![1](img/2.png)
+![1](img/3.png)
+![1](img/4.png)
+![1](img/5.png)
 
 但是很不幸, 作者对世界失望, 放弃了这个项目, 关停了网站和 discourse 频道, 取消了 每月600美元的 AWS服务.
 
-![reddit](https://h1.appinn.me/file/1734494463076_image.png)
+![reddit](img/rob.png)
 
 详见作者的社交媒体 https://www.reddit.com/user/Throwawarky/
 
