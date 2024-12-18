@@ -12,7 +12,7 @@ StrokesPlus 在 2016 停止更新，StrokesPlus.net 是 StrokesPlus 的继承者
 详见作者的社交媒体 https://www.reddit.com/user/Throwawarky/
 
 不知道作者能否渡过内心的难关, 我创建这个项目, 尽可能保留 strokesplus.net 这个软件, 以便大家还能继续使用.
-但是项目并每月开源, 所以软件本体是无法继续更新的. 
+由于项目并非开源, 所以软件本体是无法继续更新的. 
 
 [点此访问小众论坛持续更新的脚本讨论](https://meta.appinn.net/t/topic/29815)
 
